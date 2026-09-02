@@ -14,8 +14,8 @@ This repository provides the replication code and datasets for the book **High-D
 
 The repository is organized according to the chapters and topics covered in the book [cite: 1]. 
 
-* **`Chapter01/`**: Replication code for Chapter 1, which covers sparse vector autoregressive models [cite: 1].
-* **`Chapter02/`**: Replication code for Chapter 2, which covers dynamic factor models [cite: 1].
+* **`Chapter1/`**: Replication code for Chapter 1, which covers sparse vector autoregressive models [cite: 1].
+* **`Chapter2/`**: Replication code for Chapter 2, which covers dynamic factor models [cite: 1].
 * **`data/`**: Common datasets utilized across different chapters.
 
 ## Methodological Reference
