@@ -1,5 +1,4 @@
-# hdts-book.github.io
-# High-Dimensional Time Series
+# Codes for High-Dimensional Time Series book 
 
 This repository provides the replication code and datasets for the book **High-Dimensional Time Series** [cite: 1].
 
