@@ -1,0 +1,6 @@
+"item","expected","observed","pass"
+"raw_rows",129600,129600,TRUE
+"cell_performance_rows",1296,1296,TRUE
+"seed_manifest_rows",10800,10800,TRUE
+"design_cells",108,108,TRUE
+"workers",50,50,TRUE

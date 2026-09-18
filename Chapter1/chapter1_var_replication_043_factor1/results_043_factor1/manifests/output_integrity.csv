@@ -1,0 +1,5 @@
+"item","expected","observed","pass"
+"raw_rows",1188000,1188000,TRUE
+"cell_performance_rows",2376,2376,TRUE
+"seed_manifest_rows",54000,54000,TRUE
+"design_cells",108,108,TRUE
